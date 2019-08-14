@@ -1,5 +1,4 @@
-# AgileEngine backend-XML java snippets
+# Task solution
 
-It is built on top of [Jsoup](https://jsoup.org/).
-
-You can use Jsoup for your solution or apply any other convenient library. 
+Written algorithm to find needed tag in the provided files.
+Used external library: jsoup

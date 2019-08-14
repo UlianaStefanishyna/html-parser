@@ -8,9 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ae-backend-xml-java-snippets.main" />
     <orderEntry type="library" name="Gradle: org.jsoup:jsoup:1.11.2" level="project" />
-    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.7.25" level="project" />
-    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
-    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="ae-backend-xml-java-snippets.main" />
 </module>
